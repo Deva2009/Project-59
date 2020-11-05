@@ -33,7 +33,7 @@ h1 {
     margin: 8px auto;
 }
 
-#menu {
+.menu {
     list-style: none;
     font-family: cursive;
     position: absolute;
